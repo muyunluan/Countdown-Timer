@@ -2,16 +2,15 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/muyunluan/JatpackCompose-CountdownTimer/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+This is second week Jetpack Compose challenge app which contains one screen to demonstrate countdown timer.
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+This project is written by Jetpack Compose, it is a good practice to understand how ViewModel works with Jetpack Compose.
 
 
 ## :camera_flash: Screenshots
